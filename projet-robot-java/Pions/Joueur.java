@@ -1,3 +1,5 @@
+package Pions;
+
 public class Joueur extends Pions {
 
   public int x;

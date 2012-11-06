@@ -1,3 +1,6 @@
+package Pions;
+import Plateau.Plateau;
+
 
 
 public class Pions extends Plateau {

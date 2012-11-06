@@ -1,3 +1,6 @@
+package Pions;
+
+
 public class Bouffeur extends Robots {
 
   public void attaquer() {

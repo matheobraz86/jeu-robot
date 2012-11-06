@@ -1,3 +1,4 @@
+package Pions;
 
 public class Tireur extends Robots {
 
