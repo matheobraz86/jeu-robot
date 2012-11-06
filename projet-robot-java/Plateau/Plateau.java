@@ -4,13 +4,13 @@ import java.util.ArrayList;
 
 public class Plateau {
 
-  public ArrayList listePion;
+	public ArrayList listePion;
 
 
-  public void getListeDePions() {
-  }
+	public void getListeDePions() {
+	}
 
-  public void placerPions() {
-  }
+	public void placerPions() {
+	}
 
 }

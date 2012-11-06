@@ -3,10 +3,10 @@ package Pions;
 
 public class Bouffeur extends Robots {
 
-  public void attaquer() {
-  }
+	public void attaquer() {
+	}
 
-  public void rechercher() {
-  }
+	public void rechercher() {
+	}
 
 }
