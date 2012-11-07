@@ -1,5 +1,7 @@
 package Application;
 
+import Plateau.Plateau;
+
 public class Application {
 
 	/**
@@ -7,7 +9,8 @@ public class Application {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Plateau pl = new Plateau();
+		pl.getListeDePions();
 	}
 
 }

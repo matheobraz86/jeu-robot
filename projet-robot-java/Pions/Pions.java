@@ -5,10 +5,21 @@ import Plateau.Plateau;
 
 public class Pions extends Plateau {
 
+	
 	public int x;
 
 	public int y;
-
+	
+	
+	public Pions(){}
+	
+	public Pions(int x, int y) {
+		super();
+		this.x = x;
+		this.y = y;
+	}
+	
+	
 	public void attaquer() {
 	}
 
@@ -34,4 +45,8 @@ public class Pions extends Plateau {
 		this.y = y;
 	}
 
+	@Override
+	public String toString() {
+		return "Pions [x=" + x + ", y=" + y + "]";
+	}
 }
