@@ -1,9 +1,8 @@
 package Pions;
-import Plateau.Plateau;
 
 
 
-public class Pions extends Plateau {
+public class Pions {
 
 	
 	public int x;
@@ -14,7 +13,6 @@ public class Pions extends Plateau {
 	public Pions(){}
 	
 	public Pions(int x, int y) {
-		super();
 		this.x = x;
 		this.y = y;
 	}
